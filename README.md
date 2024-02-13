@@ -14,28 +14,24 @@ In this repo, we want to describe better the challenge about Life on Land (SDG15
 ![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/db2041aa-b732-45a9-8b7c-8233bb36dd26)
 
 
-1. Fighting Deforestation in Protected Areas: An AI to the Rescue.
+# 1. IDEA1:  Fighting Deforestation in Protected Areas: An AI to the Rescue.
 
-Use the monthly Planet basemap to automatically detect deforestation in protected areas of a specific country. Develop an interactive widget that shows the new monthly deforestation within these areas.
+Use the monthly Planet basemap to automatically detect deforestation in protected areas (or nearby) of a specific country and develop an interactive widget that shows the new monthly deforestation within these areas.
 
-Add an innovative touch:
+##Add an innovative touch:
 
-- *Train an AI model*: Harness the power of Artificial Intelligence to automate deforestation detection, making it faster and more accurate.
-- *Visualize in an impactful way*: Create a dynamic and engaging widget that presents information in an accessible and clear way, capturing the attention of anyone interested.
-- *Deepen the analysis*: Go beyond simple detection. Analyze patterns, critical areas, and possible causes of deforestation.
+- **Train an AI model**: Harness the power of Artificial Intelligence to automate deforestation detection, making it faster and more accurate.
+- **Visualize in an impactful way**: Create a dynamic and engaging widget that presents information in an accessible and clear way, capturing the attention of anyone interested.
+- **Deepen the analysis**: Go beyond simple detection. Analyze patterns, critical areas, and possible causes of deforestation.
 
-Benefits:
+##Benefits:
+- **Early warning**: Quickly identify deforestation to take timely protection measures.
+- **Transparency and information**: Share data openly and understandably, fostering collective action.
+- **Valuable tool**: Provide governments, NGOs, and communities with an effective resource to combat deforestation.
 
-Early warning: Quickly identify deforestation to take timely protection measures.
-Transparency and information: Share data openly and understandably, fostering collective action.
-Valuable tool: Provide governments, NGOs, and communities with an effective resource to combat deforestation.
-Do you dare to accept the challenge? Your solution could be key to protecting our ecosystems and ensuring a sustainable future.
-
-Additional tips:
-
-Specify the country of focus: increase the relevance of the challenge for a specific audience.
-Briefly describe the widget format: generate expectation about the user interface.
-Mention potential AI techniques: attract participants with diverse skills.
-Highlight the potential impact of the solution: motivate people to contribute.
-I hope this helps you improve your mini challenge!
+##Additional tips:
+- **Specify the country of focus**: increase the relevance of the challenge for a specific audience.
+- **Briefly describe the widget format**: generate expectation about the user interface.
+- **Mention potential AI techniques**: attract participants with diverse skills.
+- **Highlight the potential impact of the solution**: motivate people to contribute.
 

@@ -1,7 +1,7 @@
 # unbl-cloudnativehacks
 In this repo, we want to describe better the challenge about Life on Land (SDG15) and UN Biodiversity Lab (UNBL) for the CloudNativeHacks held on Paris in 2024.
 
-<img src="[https://your-image-url.type](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e)" height="100">
+<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e" height="100">
 
 ![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e)
 

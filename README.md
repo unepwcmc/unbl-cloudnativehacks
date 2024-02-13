@@ -10,7 +10,7 @@ Here we share with you few ideas...
 
 Use the monthly Planet basemap to automatically detect deforestation in protected areas (or nearby) of a specific country and develop an interactive widget that shows the new monthly deforestation within these areas.
 
-##Add an innovative touch:
+## Add an innovative touch:
 - **Train an AI model**: Harness the power of Artificial Intelligence to automate deforestation detection, making it faster and more accurate.
 - **Visualize in an impactful way**: Create a dynamic and engaging widget that presents information in an accessible and clear way, capturing the attention of anyone interested.
 - **Deepen the analysis**: Go beyond simple detection. Analyze patterns, critical areas, and possible causes of deforestation.

@@ -15,7 +15,7 @@ Use the monthly Planet basemap to automatically detect deforestation in protecte
 - **Visualize in an impactful way**: Create a dynamic and engaging widget that presents information in an accessible and clear way, capturing the attention of anyone interested.
 - **Deepen the analysis**: Go beyond simple detection. Analyze patterns, critical areas, and possible causes of deforestation.
 
-##Benefits:
+<!--##Benefits:
 - **Early warning**: Quickly identify deforestation to take timely protection measures.
 - **Transparency and information**: Share data openly and understandably, fostering collective action.
 - **Valuable tool**: Provide governments, NGOs, and communities with an effective resource to combat deforestation.
@@ -25,11 +25,13 @@ Use the monthly Planet basemap to automatically detect deforestation in protecte
 - **Briefly describe the widget format**: generate expectation about the user interface.
 - **Mention potential AI techniques**: attract participants with diverse skills.
 - **Highlight the potential impact of the solution**: motivate people to contribute.
+--> 
 
 # 2. Sister Sanctuaries
 
 Unlocking Collaboration Through Data: use as many datasets as you can (or want) to uncover hidden connections between protected areas. By grouping areas with similar patterns, we could create "twin" ecosystems – ideal platforms for sharing best practices, overcoming common challenges, and maximizing conservation impact. Join us in unlocking the power of collaboration for a healthier planet!
 
+<!--
 ##Innovative Touch: Go beyond Basic Similarity Instead of simple pattern matching, leverage advanced techniques like:
 - **Clustering Algorithms**: Identify complex, non-linear relationships between protected areas based on multiple datasets.
 - **Network Analysis**: Understand the flow of information, resources, and challenges between similar areas.
@@ -53,7 +55,7 @@ Unlocking Collaboration Through Data: use as many datasets as you can (or want) 
 - **Partner with Organizations**: Collaborate with conservation NGOs or research institutions to integrate your solution into existing initiatives and tap into their expertise.
 - **Develop Interactive Tools**: Create user-friendly maps, dashboards, or platforms showcasing "twin" areas and enabling knowledge exchange.
 - **Consider Explainability**: If using complex AI models, ensure transparency and interpretability of results for user trust and adoption.
-
+-->
 
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/db2041aa-b732-45a9-8b7c-8233bb36dd26" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/3afc9301-a2a9-491e-ab96-3f263fbca599" height="100">
 

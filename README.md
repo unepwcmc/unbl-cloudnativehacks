@@ -2,7 +2,7 @@
 
 In this repo, we want to describe better the challenge about Life on Land (SDG15) and UN Biodiversity Lab (UNBL) for the CloudNativeHacks held on Paris in 2024.
 
-<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e" height="100">
+<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e" height="100"><img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/add289e3-e448-488d-a21e-6550e23fc489" height="100">
 
 Here we share with you few ideas...
 
@@ -54,16 +54,10 @@ Unlocking Collaboration Through Data: use as many datasets as you can (or want) 
 - **Develop Interactive Tools**: Create user-friendly maps, dashboards, or platforms showcasing "twin" areas and enabling knowledge exchange.
 - **Consider Explainability**: If using complex AI models, ensure transparency and interpretability of results for user trust and adoption.
 
-<img src="[https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/add289e3-e448-488d-a21e-6550e23fc489)" height="200">
+<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/41b3885c-c08f-4471-9553-9adcf2a59325" height="300">
 
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/add289e3-e448-488d-a21e-6550e23fc489)
+<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/ffb60b66-fecc-48e8-94fa-3970df1087b1" height="300">
 
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/41b3885c-c08f-4471-9553-9adcf2a59325)
-
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/ffb60b66-fecc-48e8-94fa-3970df1087b1)
-
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/25806122-a653-41dc-9596-4a1882c047e5)
-
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/db2041aa-b732-45a9-8b7c-8233bb36dd26)
+<img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/db2041aa-b732-45a9-8b7c-8233bb36dd26" height="300">
 
 

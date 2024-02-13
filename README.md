@@ -3,8 +3,6 @@ In this repo, we want to describe better the challenge about Life on Land (SDG15
 
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e" height="100">
 
-![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e)
-
 # 1. IDEA1:  Fighting Deforestation in Protected Areas: An AI to the Rescue.
 
 Use the monthly Planet basemap to automatically detect deforestation in protected areas (or nearby) of a specific country and develop an interactive widget that shows the new monthly deforestation within these areas.
@@ -26,7 +24,7 @@ Use the monthly Planet basemap to automatically detect deforestation in protecte
 - **Mention potential AI techniques**: attract participants with diverse skills.
 - **Highlight the potential impact of the solution**: motivate people to contribute.
 
-
+<img src="[https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/6b95c033-91a0-49d3-b02a-d06086cd875e](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/add289e3-e448-488d-a21e-6550e23fc489)" height="200">
 
 ![image](https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/add289e3-e448-488d-a21e-6550e23fc489)
 

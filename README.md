@@ -1,8 +1,8 @@
 # CHALLENGE: REPORTING TRENDS FOR SPATIAL PROCESSES 
 
-SDG 15 Life on Land 
-
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/36de6e41-b173-4c1d-a9a2-f1f17fcf1d74" height="100"/>
+
+**SDG 15 Life on Land**
 
 Forest losses, land degradation, and species extinctions are escalating. These events pose severe threats to the survival of people and the planet. The Global Biodiversity Framework of the UN Biodiversity Convention provides renewed impetus for conserving terrestrial ecosystems, in line with SDG15. 
   

@@ -11,6 +11,6 @@ The UN Biodiversity Lab (UNBL) is a web-based tool that supports countries, NGOs
 In this document, we will publish some relevant datasets and give you some ideas to explore. We are still working on it. Stay tuned.
 
 ### Links
-- [SDG 13: Climate Action]([url](https://www.un.org/sustainabledevelopment/climate-change/))
-- [SDG 14: Life Below Water]([url](https://www.un.org/sustainabledevelopment/oceans/)https://www.un.org/sustainabledevelopment/oceans/)
-- [SDG 15: Life On Land]([url](https://www.un.org/sustainabledevelopment/biodiversity/)https://www.un.org/sustainabledevelopment/biodiversity/)
+- ([SDG 13: Climate Action](https://www.un.org/sustainabledevelopment/climate-change/)
+- ([SDG 14: Life Below Water](https://www.un.org/sustainabledevelopment/oceans/)
+- ([SDG 15: Life On Land](https://www.un.org/sustainabledevelopment/biodiversity/)

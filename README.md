@@ -1,12 +1,16 @@
-# SPATIAL INTELLIGENCE FOR BIODIVERSITY CONSERVATION
+# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
 
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/b5e2ba08-7521-4d4e-892b-c43e1ab001bc" height="150"/>
      <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/d75e61e2-b26f-4c9a-981c-cc1f865081c8" height="150"/>
      <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/caa96421-9c25-4af0-87e2-2df107d5c127" height="150"/>
 
-Forest losses, land degradation, and species extinctions are escalating. These events pose severe threats to the survival of people and the planet. The Global Biodiversity Framework of the UN Biodiversity Convention provides renewed impetus for conserving terrestrial ecosystems, in line with SDG13, SDG14 and SDG15. 
-  
-The UN Biodiversity Lab (UNBL) is a web-based tool that supports countries, NGOs, and civil society in accessing relevant geospatial datasets to provide valuable insights about their territories, facilitating strategic decision making, and smart reporting. Currently, UNBL is being further developed to align with the needs of countries in relation to the Global Biodiversity Framework to support spatial planning, monitoring and reporting needs. We invite you to build an attractive dashboard and/or widgets based on cloud native datasets to offer more advanced analysis. 
+**Brief:** Leverage spatial data to uncover functional insights to monitor, protect and restore nature for people and the planet 
+
+**Description:**  Forest loss, land and marine degradation, and species extinctions are escalating. These events pose severe threats to the survival of people and the planet. The Global Biodiversity Framework of the UN Biodiversity Convention provides renewed impetus for conserving terrestrial and marine ecosystems, in line with SDGs 13, 14, and 15.  
+
+The UN Biodiversity Lab (UNBL) is a web-based tool that supports governments, NGOs, and civil society to access relevant geospatial datasets to provide valuable insights about their territories, facilitating strategic decision making and smart reporting. Currently, UNBL is being further developed to align with the needs of countries in relation to the Global Biodiversity Framework to support spatial planning, monitoring, and reporting needs. Decision-makers need customized dashboards, analytics, and indicators that on the state of nature and trends over time to make key decisions for biodiversity conservation and sustainable development. 
+
+We invite you to develop an attractive dashboard and/or widgets based on cloud-native datasets to offer more advanced analyses that enable governments to take action for nature, climate, and human well-being. 
 
 In this document, we will publish some relevant datasets and give you some ideas to explore. We are still working on it. Stay tuned.
 

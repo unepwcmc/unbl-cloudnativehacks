@@ -26,7 +26,9 @@ Need some help / support, you can contact us:
 
 ### Datasets
 
-The datasets we suggest to use are global and cloud native ready (COG Geotiff for rasters and Geoparquet for vectors)
+The datasets we suggest to use are global and cloud native ready (COG Geotiff for rasters and Geoparquet for vectors).
+
+⚠️ Don't forget to mention credits and be compliant with the license. ⚠️
 
 | #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

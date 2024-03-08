@@ -20,7 +20,7 @@ In this document, we will publish some relevant datasets and give you some ideas
 - [SDG 15: Life On Land](https://www.un.org/sustainabledevelopment/biodiversity/)
 
 ### Contact
-Need some help / support, you can contact us [by email](mailto:unbl@unep-wcmc.org) 
+Need some help / support, you can contact us [by email](mailto:unbl@unep-wcmc.org) or [through #Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
 
 ### Datasets
 

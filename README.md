@@ -24,18 +24,12 @@ Need some help / support, you can contact us [by email](mailto:unbl@unep-wcmc.or
 
 ### Datasets
 
+The datasets we suggest to use are global and cloud native ready (COG Geotiff for rasters and Geoparquet for vectors)
+
 | #  | Topic | Dataset | Keywords | Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | Carbon | Belowground Biomass Carbon Density | biomass; carbon, climate  | [dataset](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=belowground-biomass-carbon-density-2010_100)  |
-| 2  | Carbon | Aboveground Biomass Carbon Density | biomass; carbon, climate  | [dataset](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100)  |
-
-
-|#	|Topic	|Dataset	|Keywords |
-|(optional)	UNBL Link (URL)
-1	Carbon	Belowground Biomass Carbon Density 2010	Biomass; carbon, climate	https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=belowground-biomass-carbon-density-2010_100
-2	Carbon	Aboveground Biomass Carbon Density 2010
-	Biomass; carbon, climate
-	https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100
-3	Built infrastructure	OpenStreetMap	Infrastructure, human impact	OSM (e.g. via overpass or something)   
-https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons
+| 1  | Carbon | Belowground Biomass Carbon Density | biomass, carbon, climate  | access the dataset from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=belowground-biomass-carbon-density-2010_100)  |
+| 2  | Carbon | Aboveground Biomass Carbon Density | biomass, carbon, climate  | access the dataset from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100)  |
+| 3  | Carbon | Total Biomass Carbon Density | biomass, carbon, climate  | access the dataset from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100)  |
+| 4  | Built infrastructure | Aboveground Biomass Carbon Density | infrastructure, human impact  | access the dataset from [GEE](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons), [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) |
 

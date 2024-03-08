@@ -26,10 +26,10 @@ Need some help / support, you can contact us [by email](mailto:unbl@unep-wcmc.or
 
 The datasets we suggest to use are global and cloud native ready (COG Geotiff for rasters and Geoparquet for vectors)
 
-| #  | Topic | Dataset | Keywords | Cloud Native | Other |
+| #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | Carbon | Belowground Biomass Carbon Density | biomass, carbon, climate  | pull data from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=belowground-biomass-carbon-density-2010_100)  | |
-| 2  | Carbon | Aboveground Biomass Carbon Density | biomass, carbon, climate  | pull data from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100)  | |
-| 3  | Carbon | Total Biomass Carbon Density | biomass, carbon, climate  | pull data from [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=wcmc-terrestrial-carbon-2010-01_100)  | | 
-| 4  | Built infrastructure | Open Buildings | infrastructure, human impact  | pull data from [GEE](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons), [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) |  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
+| 1  | Carbon | Belowground Biomass Carbon Density | biomass, carbon, climate  | [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=belowground-biomass-carbon-density-2010_100)  | |
+| 2  | Carbon | Aboveground Biomass Carbon Density | biomass, carbon, climate  | [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=aboveground-biomass-carbon-density_100)  | |
+| 3  | Carbon | Total Biomass Carbon Density | biomass, carbon, climate  | [UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=-5.751377,-63.5149077,3&layers=wcmc-terrestrial-carbon-2010-01_100)  | | 
+| 4  | Built infrastructure | Open Buildings | infrastructure, human impact  | [GEE](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons), [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) |  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
 

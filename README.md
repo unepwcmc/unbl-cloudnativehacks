@@ -26,9 +26,14 @@ Need some help / support, you can contact us:
 
 ### Datasets
 
-The datasets we suggest to use are global and cloud native ready (COG Geotiff for rasters and Geoparquet for vectors).
-
-⚠️ Don't forget to mention credits and be compliant with the license. ⚠️
+Here are some suggested datasets participants could work on, but they are also invited to select their own datasets.
+- These datasets are global spatial data
+- These datatasets are suggested because they are currently relevant, as they can be used to report on the [Global Biodiversity Framework](https://www.post-2020indicators.org/). 
+- Countries adopted the [Global Biodiversity Framework](https://www.post-2020indicators.org/) at the 15th meeting of the Conference of the Parties (COP15) to the [Convention on Biological Diversity (CBD)](https://www.cbd.int/convention), held in December 2022.
+- The Global Biodiversity Framework aims to put nature on a path to recovery. 
+- The framework features [4 goals](https://www.cbd.int/gbf/goals/) and [23 targets](https://www.cbd.int/gbf/targets/) that span three broad topics: reducing threats to biodiversity, meeting people’s needs, and tools and solutions for implementation.
+- The datasets are published as Cloud Native datasets: COG Geotiff for rasters and Geoparquet for vectors
+- ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
 
 | #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

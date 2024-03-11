@@ -44,7 +44,7 @@ Here are some suggested datasets you could work on, but you can also select your
 | 2  | Biodiversity | Global Pesticide Risk Scores | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif)| |
 | 3  | Biodiversity | Ecological Intactness Index | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
 | 4  | Biodiversity | Biodiversity Habitat Index | GBF component indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2020_cog.tif)  |
-| 5  | Biodiversity | Global Surface Water | GBF component indicator  | TBD - [UNBL Azure Blob]()  |
+| 5  | Biodiversity | Global Surface Water | GBF component indicator  | [GEE](https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater)<br/>TBD - [UNBL Azure Blob]()  |
 | 6  | Biodiversity | Protected Area Connectivity | GBF component indicator  | TBD - [UNBL Azure Blob]()  |
 | 7  | Biodiversity | Areas of Global Significance for Restoration | GBF component indicator  | TBD - [UNBL Azure Blob]()  |
 | 8  | Biodiversity | Forest Structural Integrity Index | Forest | TBD - [UNBL Azure Blob]()  |

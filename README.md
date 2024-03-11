@@ -35,8 +35,8 @@ Here are some suggested datasets you could work on, but you can also select your
 - The framework features [4 goals](https://www.cbd.int/gbf/goals/) and [23 targets](https://www.cbd.int/gbf/targets/) that span three broad topics: reducing threats to biodiversity, meeting people’s needs, and tools and solutions for implementation.
 - The datasets are published as Cloud Native datasets: COG Geotiff for rasters and Geoparquet for vectors
 - ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
-  
 
+<br/><br/><br/>
 
 | #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

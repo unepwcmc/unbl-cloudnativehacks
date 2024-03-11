@@ -39,7 +39,7 @@ Here are some suggested datasets you could work on, but you can also select your
 <br/><br/>
 
 | #  | Dataset | Cloud Native Data | Other Format | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | 1  | Protected Areas | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/protected-areas/WDPA_Mar2024_Public.parquet)| |
 | 2  | Global Pesticide Risk Scores |[UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif)| |
 | 3  | Ecological Intactness Index | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |

@@ -36,7 +36,7 @@ Here are some suggested datasets you could work on, but you can also select your
 - The datasets are published as Cloud Native datasets: COG Geotiff for rasters and Geoparquet for vectors
 - ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
 
-<br/><br/><br/>
+<br/><br/>
 
 | #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

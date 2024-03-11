@@ -38,11 +38,11 @@ Here are some suggested datasets you could work on, but you can also select your
 
 <br/><br/>
 
-| #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format | 
+| #  | Topic | Dataset | Category | Cloud Native Data | Other Format | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | Biodiversity | Protected Areas | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/protected-areas/WDPA_Mar2024_Public.parquet)| |
 | 2  | Biodiversity | Global Pesticide Risk Scores | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif)| |
-| 3  | Biodiversity | Ecological Intactness | biodiversity  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
+| 3  | Biodiversity | Ecological Intactness Index | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
 | 4  | Biodiversity | Biodiversity Habitat Index | GBF component indicator  | [UNBL Azure Blob]()  |
 | 5  | Biodiversity | Global Surface Water | GBF component indicator  | [UNBL Azure Blob]()  |
 | 6  | Biodiversity | Protected Area Connectivity | GBF component indicator  | [UNBL Azure Blob]()  |

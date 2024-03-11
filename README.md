@@ -37,8 +37,11 @@ Here are some suggested datasets you could work on, but you can also select your
 - ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
   
 
+
 | #  | Topic | Dataset | Keywords | Cloud Native Data | Other Format | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | Biodiversity | Biodiversity Intactness | biodiversity  | [MS Azure](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
-| 2  | Built infrastructure | Global Open Buildings | infrastructure<br/>human impact  | [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>[GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>[Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/ms-buildings)|  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
+| 1  | Biodiversity | Ecological Intactness | biodiversity  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
+| 2  | Biodiversity | Biodiversity Intactness | biodiversity  | [MS Azure](https://cloudnativehacks.blob.core.windows.net/data/biodiversity_intactness_index/BIIAb-2015_cog.tif) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
+| 3  | Built infrastructure | Global Open Buildings | infrastructure<br/>human impact  | [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>[GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>[Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/ms-buildings)|  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
+
 

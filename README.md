@@ -50,6 +50,7 @@ Here are some suggested datasets you could work on, but you can also select your
 | 8  | Biodiversity | Forest Structural Integrity Index | Forest | [UNBL Azure Blob]()  |
 | 9  | Built infrastructure | Global Open Buildings | infrastructure<br/>human impact  | [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>[GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>[Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/ms-buildings)|  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
 |  10  | Biodiversity | Biodiversity Intactness | biodiversity  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/biodiversity_intactness_index/BIIAb-2015_cog.tif) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
+|  11  | Administrative | Country Boundaries | admin, boundaries  | [UNBL Azure Blob]() <br/>[MS Planetary Computer]() <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
 
 
 

@@ -38,7 +38,7 @@ Here are some suggested datasets you could work on, but you can also select your
 
 <br/><br/>
 
-| #  | Dataset | How this data could be useful | Cloud Native Data | 
+| #  | Dataset | How this data could be useful | Cloud Native Data Access | 
 | ------------- | ------------- | ------------- | ------------- | 
 |  0  | Country Boundaries | <sub>to report at national level. To aggregate data by country.</sub> | <sub>[UNBL Azure Blob]() <br/>[Planetary Computer]() <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)|</sub>|
 | 1  | Protected Areas | <sub>to report the percentage coverage of terrestrial and marine areas covered by protected areas. (Target 3: Conserve 30% of Land, Waters and Seas.)</sub> | <sub>[UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/protected-areas/WDPA_Mar2024_Public.parquet)</sub>|

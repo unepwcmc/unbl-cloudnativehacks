@@ -38,19 +38,19 @@ Here are some suggested datasets you could work on, but you can also select your
 
 <br/><br/>
 
-| #  | Topic | Dataset | Category | Cloud Native Data | Other Format | 
+| #  | Dataset | Cloud Native Data | Other Format | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | Biodiversity | Protected Areas | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/protected-areas/WDPA_Mar2024_Public.parquet)| |
-| 2  | Biodiversity | Global Pesticide Risk Scores | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif)| |
-| 3  | Biodiversity | Ecological Intactness Index | GBF headline indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
-| 4  | Biodiversity | Biodiversity Habitat Index | GBF component indicator  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2020_cog.tif)  |
-| 5  | Biodiversity | Global Surface Water | GBF component indicator  | [GEE](https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater)<br/>TBD - [UNBL Azure Blob]()  |
-| 6  | Biodiversity | Protected Area Connectivity | GBF component indicator  | TBD - [UNBL Azure Blob]()  |
-| 7  | Biodiversity | Areas of Global Significance for Restoration | GBF component indicator  | TBD - [UNBL Azure Blob]()  |
-| 8  | Biodiversity | Forest Structural Integrity Index | Forest | TBD - [UNBL Azure Blob]()  |
-| 9  | Built infrastructure | Global Open Buildings | infrastructure<br/>human impact  | [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>[GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>[Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/ms-buildings)|  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
-|  10  | Biodiversity | Biodiversity Intactness | biodiversity  | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/biodiversity_intactness_index/BIIAb-2015_cog.tif) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
-|  11  | Administrative | Country Boundaries | admin, boundaries  | [UNBL Azure Blob]() <br/>[MS Planetary Computer]() <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
+| 1  | Protected Areas | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/protected-areas/WDPA_Mar2024_Public.parquet)| |
+| 2  | Global Pesticide Risk Scores |[UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif)| |
+| 3  | Ecological Intactness Index | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/ecological-intactness-index/Ecological-Intactness-Index_year-2009_Qprime_cog.tif)| |
+| 4  | Biodiversity Habitat Index | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2020_cog.tif)  |
+| 5  | Global Surface Water | [GEE](https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater)<br/>TBD - [UNBL Azure Blob]()  |
+| 6  | Protected Area Connectivity | TBD - [UNBL Azure Blob]()  |
+| 7  | Areas of Global Significance for Restoration | TBD - [UNBL Azure Blob]()  |
+| 8  | Forest Structural Integrity Index | TBD - [UNBL Azure Blob]()  |
+| 9  | Global Open Buildings | [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>[GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>[Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/ms-buildings)|  [OSM via Overpass](https://overpass-turbo.eu/s/1In5)|
+|  10  | Biodiversity Intactness | [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/biodiversity_intactness_index/BIIAb-2015_cog.tif) <br/>[MS Planetary Computer](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
+|  11  | Country Boundaries | [UNBL Azure Blob]() <br/>[MS Planetary Computer]() <br/>[GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)| |
 
 
 

@@ -25,7 +25,7 @@
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02_global-pesticide-risk-scores.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-risk-scores.json",
         "title": "02 - Global Pesticide Risk Scores"
       }      
     ]

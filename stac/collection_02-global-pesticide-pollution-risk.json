@@ -1,0 +1,58 @@
+{
+    "id": "02-global-pesticide-pollution-risk",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "Global Pesticide Pollution Risk",
+    "title": "02 - Global Pesticide Pollution Risk",
+    "providers": [
+      {
+        "name": "Global pesticide pollution risk",
+        "description": "Five global maps are included in this data set: (1) the pesticide risk scores map showing the exposure of agricultural land to pesticide pollution, (2) the active ingredient counts map quantifying the number of active ingredients posing pollution risk to agricultural land and showing the exposure of environment to pesticide mixtures, (3) the regions of concern map identifying areas susceptible to pesticide pollution, (4) the data certainty index resulting from parameter sensitivity analysis, and (5) the data quality index showing the quality of the estimates.",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+        "url": "mailto:fiona.tang@sydney.edu.au"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2021-01-01T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "CC-BY-4.0",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
+        "type": "application/json",
+        "title": "02 - Global Pesticide"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/item_020-global-pesticide-risk-score.json",
+        "type": "application/json",
+        "title": "Global Pesticide Risk Score"
+      },
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
+        "type": "application/json"
+      }
+    ]
+  }

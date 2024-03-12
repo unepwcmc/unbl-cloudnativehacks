@@ -1,0 +1,97 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_020-global-pesticide-risk-score",
+    "bbox": [
+      -180,
+      -90,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -90
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -90
+          ],
+          [
+            -180,
+            -90
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2021-01-01T00:00:00.000Z"
+    },
+    "collection": "collection_02-global-pesticide-pollution-risk",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "./collection_02-global-pesticide-pollution-risk.json",
+        "type": "application/json",
+        "title": "02 - Global Pesticide"
+      },
+      {
+        "rel": "root",
+        "href": "./collection_02-global-pesticide-pollution-risk.json",
+        "type": "application/json",
+        "title": "02 - Global Pesticide"
+      },
+      {
+        "rel": "parent",
+        "href": "./collection_02-global-pesticide-pollution-risk.json",
+        "type": "application/json",
+        "title": "02 - Global Pesticide"
+      }
+    ],
+    "assets": {
+      "data-geoparquet": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/01_protected-areas/WDPA_Mar2024_Public.parquet",
+        "type": "application/vnd.apache.parquet",
+        "title": "Protected Areas: WDPA as (geo)parquet",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-geoarrow": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/01_protected-areas/WDPA_Mar2024_Public.arrow",
+        "type": "application/vnd.apache.arrow.file",
+        "title": "Protected Areas: WDPA as (geo)arrow",
+        "roles": [
+          "data"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_thumbnail.jpg",
+        "title": "Thumbnail",
+        "type": "image/jpg",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_overview.tif",
+        "title": "Overview",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

@@ -40,19 +40,19 @@
     "links": [
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/collection_01-protected-areas.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/01_protected-areas/collection_01-protected-areas.json",
         "type": "application/json",
         "title": "01 - Protected Areas"
       },
       {
         "rel": "item",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/item_010-protected-areas-unep-wcmc.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/01_protected-areas/item_010-protected-areas-unep-wcmc.json",
         "type": "application/json",
         "title": "Protected Areas by UNEP-WCMC"
       },
       {
         "rel": "self",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/collection_01-protected-areas.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/01_protected-areas/collection_01-protected-areas.json",
         "type": "application/json"
       },
       {

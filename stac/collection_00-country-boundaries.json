@@ -39,19 +39,19 @@
     "links": [
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/00_country-boundaries/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/00_country-boundaries/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "00 - Country Boundaries Collection"
       },
       {
         "rel": "item",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/00_country-boundaries/item_000-country-boundaries-natural-earth.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/00_country-boundaries/item_000-country-boundaries-natural-earth.json",
         "type": "application/json",
         "title": "Country Boundaries by Natural Earth"
       },
       {
         "rel": "self",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/00_country-boundaries/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/00_country-boundaries/collection_00-country-boundaries.json",
         "type": "application/json"
       }
     ]

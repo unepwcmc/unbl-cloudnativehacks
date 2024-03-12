@@ -43,19 +43,19 @@
     "links": [
       {
         "rel": "collection",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "parent",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       }
@@ -102,7 +102,7 @@
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/00_country-boundaries/country_boundaries.png",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/00_country-boundaries/country_boundaries.png",
         "title": "Thumbnail",
         "type": "image/png",
         "roles": [
@@ -110,7 +110,7 @@
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/00_country-boundaries/country_boundaries_overview.tif",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/00_country-boundaries/country_boundaries_overview.tif",
         "title": "Overview",
         "type": "image/tif",
         "roles": [

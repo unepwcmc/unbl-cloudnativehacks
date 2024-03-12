@@ -1,6 +1,6 @@
-# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
+# DATASETS
 
-### Datasets
+### Instructions
 
 Here are some suggested datasets you could work on, but you can also select your own datasets.
 - To access our datasets, ask for a token by [email](mailto:unbl@unep-wcmc.org) / [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
@@ -12,7 +12,7 @@ Here are some suggested datasets you could work on, but you can also select your
 - The datasets are published as Cloud Native datasets: COG Geotiff for rasters and (Geo)parquet for vectors.
 - ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
 
-<br/><br/>
+### List of relevant datasets
 
 | #  | Dataset | How this data could be useful | Cloud Native Data Access | 
 | ------------- | ------------- | ------------- | ------------- | 

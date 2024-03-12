@@ -42,7 +42,13 @@
         "rel": "root",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01-protected-areas.json",
         "type": "application/json",
-        "title": "Country Boundaries Collection"
+        "title": "01 - Protected Areas"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/item_010-protected-areas-unep-wcmc.json",
+        "type": "application/json",
+        "title": "Protected Areas by UNEP-WCMC"
       },
       {
         "rel": "self",

@@ -1,11 +1,6 @@
 {
-    "id": "simple-collection",
-    "type": "Collection",
- /*    "stac_extensions": [
-      "https://stac-extensions.github.io/eo/v1.0.0/schema.json",
-      "https://stac-extensions.github.io/projection/v1.0.0/schema.json",
-      "https://stac-extensions.github.io/view/v1.0.0/schema.json"
-    ], */
+    "id": "country-boundaries",
+    "type": "Collection",    
     "stac_version": "1.0.0",
     "description": "Country boundaries by Natural Earth",
     "title": "Country boundaries",
@@ -44,13 +39,13 @@
     "links": [
       {
         "rel": "root",
-        "href": "./country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "item",
-        "href": "./country-boundaries-item.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries-item.json",
         "type": "application/geo+json",
         "title": "Country boundaries item"
       },

@@ -43,19 +43,19 @@
     "links": [
       {
         "rel": "collection",
-        "href": "../collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
         "type": "application/json",
         "title": "02 - Global Pesticide"
       },
       {
         "rel": "root",
-        "href": "../collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
         "type": "application/json",
         "title": "02 - Global Pesticide"
       },
       {
         "rel": "parent",
-        "href": "../collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
         "type": "application/json",
         "title": "02 - Global Pesticide"
       }

@@ -70,9 +70,9 @@
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/wdpa_protected-areas_thumbnail.jpg",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/global-pesticide-risk-score_thumbnail.png",
         "title": "Thumbnail",
-        "type": "image/jpg",
+        "type": "image/png",
         "roles": [
           "thumbnail"
         ]

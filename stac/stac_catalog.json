@@ -17,6 +17,16 @@
         "rel": "child",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_00-country-boundaries.json",
         "title": "00 - Country Boundaries"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01_protected-areas.json",
+        "title": "01 - Protected Areas"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02_global-pesticide-risk-scores.json",
+        "title": "02 - Global Pesticide Risk Scores"
       }      
     ]
 }

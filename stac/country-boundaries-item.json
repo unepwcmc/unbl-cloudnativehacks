@@ -70,11 +70,19 @@
         ]
       },
       "thumbnail": {
-        "href": "https://storage.googleapis.com/open-cogs/stac-examples/20201211_223832_CS2.jpg",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country_boundaries.png",
         "title": "Thumbnail",
-        "type": "image/jpeg",
+        "type": "image/png",
         "roles": [
           "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country_boundaries_overview.tif",
+        "title": "Overview",
+        "type": "image/tif",
+        "roles": [
+          "overview"
         ]
       }
     }

@@ -1,0 +1,31 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Catalog",
+    "id": "unbl-cloud-native-hacks-catalog",
+    "title": "STAC Catalogue Cloud Native Hacks",
+    "description": "This catalog lists various geospatial datasets from our organization.",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://github.com/unepwcmc/unbl-cloudnativehacks/blob/main/stac/stac_catalog.json" 
+      },
+      {
+        "rel": "root",
+        "href": "https://github.com/unepwcmc/unbl-cloudnativehacks/blob/main/stac/"  
+      }
+    ],
+    "collections": [
+      {
+        "id": "country-boundaries",
+        "title": "Country Boundaries Collection",
+        "description": "Boundaries of country from Natural Earth",
+        "href": "https://github.com/unepwcmc/unbl-cloudnativehacks/blob/main/stac/country-boundaries.json" 
+      },
+      {
+        "id": "country-boundaries2",
+        "title": "Country Boundaries Collection2",
+        "description": "Boundaries of country from Natural Earth2",
+        "href": "https://github.com/unepwcmc/unbl-cloudnativehacks/blob/main/stac/country-boundaries2.json" 
+      } 
+    ]
+  }

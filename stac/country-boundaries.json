@@ -35,6 +35,7 @@
         ]
       }
     },
+    "license": "CC-BY-4.0",    
     "links": [
       {
         "rel": "root",
@@ -44,9 +45,9 @@
       },
       {
         "rel": "item",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries-item.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries-natural-earth.json",
         "type": "application/json",
-        "title": "Country boundaries item"
+        "title": "Country Boundaries by Natural Earth"
       },
       {
         "rel": "self",

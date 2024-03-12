@@ -61,7 +61,7 @@
       }
     ],
     "assets": {
-      "data": {
+      "data-geoparquet": {
         "href": "https://cloudnativehacks.blob.core.windows.net/data/00_country-boundaries/ne_10m_admin_0_countries_wgs84.parquet",
         "type": "application/vnd.apache.parquet",
         "title": "Country Boundaries as (geo)parquet",
@@ -69,7 +69,7 @@
           "data"
         ]
       },
-      "data": {
+      "data-geoarrow": {
         "href": "https://cloudnativehacks.blob.core.windows.net/data/00_country-boundaries/ne_10m_admin_0_countries_no-multipolygons-singlepart_wgs84.arrow",
         "type": "application/vnd.apache.arrow.file",
         "title": "Country Boundaries as (geo)arrow",
@@ -77,7 +77,7 @@
           "data"
         ]
       },
-      "data": {
+      "data-geoarrow-stream": {
         "href": "https://cloudnativehacks.blob.core.windows.net/data/00_country-boundaries/ne_10m_admin_0_countries_no-multipolygons-singlepart_stream_wgs84.arrows",
         "type": "application/vnd.apache.arrow.stream",
         "title": "Country Boundaries as (geo)arrow stream",
@@ -85,7 +85,7 @@
           "data"
         ]
       },
-      "data": {
+      "data-flatgeobuf-singlepart": {
         "href": "https://cloudnativehacks.blob.core.windows.net/data/00_country-boundaries/ne_10m_admin_0_countries_no-multipolygon-singlepart_wgs84.fgb",
         "type": "application/octet-stream",
         "title": "Country Boundaries as FlatGeobuf (singlepart)",
@@ -93,7 +93,7 @@
           "data"
         ]
       },
-      "data": {
+      "data-flatgeobuf-multipolygon": {
         "href": "https://cloudnativehacks.blob.core.windows.net/data/00_country-boundaries/ne_10m_admin_0_countries_wgs84_multipolygon.fgb",
         "type": "application/octet-stream",
         "title": "Country Boundaries as FlatGeobuf (multipolygon)",

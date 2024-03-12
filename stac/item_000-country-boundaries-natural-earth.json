@@ -39,7 +39,7 @@
     "properties": {
       "datetime": "2020-05-12T00:00:00.000Z"
     },
-    "collection": "country-boundaries",
+    "collection": "collection_00-country-boundaries",
     "links": [
       {
         "rel": "collection",

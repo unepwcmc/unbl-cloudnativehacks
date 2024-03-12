@@ -7,25 +7,25 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/stac_catalog.json" 
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/stac_catalog.json" 
       },
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/"  
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/"  
       },
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_00-country-boundaries.json",
         "title": "00 - Country Boundaries"
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_01-protected-areas.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01-protected-areas.json",
         "title": "01 - Protected Areas"
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_02_global-pesticide-risk-scores.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02_global-pesticide-risk-scores.json",
         "title": "02 - Global Pesticide Risk Scores"
       }      
     ]

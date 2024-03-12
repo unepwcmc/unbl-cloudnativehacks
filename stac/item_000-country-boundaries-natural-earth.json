@@ -43,19 +43,19 @@
     "links": [
       {
         "rel": "collection",
-        "href": "./country-boundaries.json",
+        "href": "./collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "root",
-        "href": "./country-boundaries.json",
+        "href": "./collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "parent",
-        "href": "./country-boundaries.json",
+        "href": "./collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       }

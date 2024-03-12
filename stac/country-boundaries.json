@@ -35,7 +35,7 @@
         ]
       }
     },
-    "license": "CCo Public Domain",
+    "license": "CC-PDDC", // "CCo-Public-Domain",
     "links": [
       {
         "rel": "root",

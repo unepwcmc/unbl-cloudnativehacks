@@ -61,24 +61,16 @@
       }
     ],
     "assets": {
-      "data-geoparquet": {
-        "href": "https://cloudnativehacks.blob.core.windows.net/data/01_protected-areas/WDPA_Mar2024_Public.parquet",
-        "type": "application/vnd.apache.parquet",
-        "title": "Protected Areas: WDPA as (geo)parquet",
-        "roles": [
-          "data"
-        ]
-      },
-      "data-geoarrow": {
-        "href": "https://cloudnativehacks.blob.core.windows.net/data/01_protected-areas/WDPA_Mar2024_Public.arrow",
-        "type": "application/vnd.apache.arrow.file",
-        "title": "Protected Areas: WDPA as (geo)arrow",
+      "data-tif": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/02_global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif",
+        "type": "image/tif",
+        "title": "Global Pesticide Risk Score COG",
         "roles": [
           "data"
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_thumbnail.jpg",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/wdpa_protected-areas_thumbnail.jpg",
         "title": "Thumbnail",
         "type": "image/jpg",
         "roles": [
@@ -86,7 +78,7 @@
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_overview.tif",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/global-pesticide-risk-score_overview.tif",
         "title": "Overview",
         "type": "image/tif",
         "roles": [

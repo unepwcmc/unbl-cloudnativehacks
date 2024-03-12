@@ -9,8 +9,9 @@
         "name": "Protected Planet (UNEP-WCMC)",
         "description": "Protected Planet is the authoritative source of data on protected areas and other effective area-based conservation measures (OECMs). It exists due to the extensive efforts of governments and other stakeholders to map, monitor and report data on protected areas and OECMs. Through the Protected Planet website, users can explore the World Database on Protected Areas (WDPA), World Database on OECMs, Global Database on Protected Area Management Effectiveness (GD-PAME), and a wealth of associated information. Start by exploring the interactive maps on the home page, or any of Protected Planet's eight thematic areas. \n\nProtected Planet enables a spectrum of users to access data for information-based decision making, policy development, and business and conservation planning. Businesses in a range of sectors including mining, oil and gas, and finance use the WDPA and associated databases to identify the biodiversity risks and opportunities of a given project. Conservation planners use the information to predict the outcomes of various proposals and focus on initiatives and areas that are most likely to result in positive impacts. The US Agency for International Development (USAID) uses the Millennium Challenge Corporation's (MCC) annual policy performance scorecards to inform decisions on allocations on funds; MCC uses the WDPA in its indicator to measure the effectiveness of policies related to Natural Resource Protection. The goals of Protected Planet are that: The Protected Planet Initiative informs decision-making and enhances action; The Protected Planet Initiative is the global platform for the communication, exchange, acquisition and analysis of knowledge and data on the status and trends of protected areas; The Protected Planet Initiative provides the world's policy-makers with the best possible information on protected areas and their value for conserving biodiversity and ecosystem services, and supporting human communities. \n\nIn addition to serving as a business, conservation and aid investment planning tools, Protected Planet provides the basis for monitoring and reporting on progress towards international environmental targets such as the Aichi Biodiversity Targets and the 2030 Sustainable Development Goals. Every two years, UNEP-WCMC releases the Protected Planet Report on the status of the world's protected areas and recommendations on how to meet international goals and targets.",
         "roles": [
-          "producer",
-          "processor"
+          "processor",
+          "licensor",
+          "host"
         ],
         "url": "https://www.protectedplanet.net"
       }
@@ -21,8 +22,8 @@
           [
             -180,
             -90,
-            180,
             90
+            180,
           ]
         ]
       },
@@ -35,7 +36,7 @@
         ]
       }
     },
-    "license": "CC-PDDC",    
+    "license": "various",    
     "links": [
       {
         "rel": "root",
@@ -53,6 +54,12 @@
         "rel": "self",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01-protected-areas.json",
         "type": "application/json"
+      },
+      {
+        "rel": "license",
+        "type": "text/html",
+        "href": "https://www.protectedplanet.net/en/legal",
+        "title": "Legal / Protected Planet Terms & Conditions"
       }
     ]
   }

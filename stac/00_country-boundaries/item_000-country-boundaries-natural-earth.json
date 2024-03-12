@@ -43,19 +43,19 @@
     "links": [
       {
         "rel": "collection",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       },
       {
         "rel": "parent",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/stac/collection_00-country-boundaries.json",
         "type": "application/json",
         "title": "Country Boundaries Collection"
       }

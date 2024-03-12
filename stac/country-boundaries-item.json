@@ -70,7 +70,7 @@
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country_boundaries.png",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/data/00_country-boundaries/country_boundaries.png",
         "title": "Thumbnail",
         "type": "image/png",
         "roles": [
@@ -78,7 +78,7 @@
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country_boundaries_overview.tif",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/data/00_country-boundaries/country_boundaries_overview.tif",
         "title": "Overview",
         "type": "image/tif",
         "roles": [

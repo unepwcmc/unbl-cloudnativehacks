@@ -1,9 +1,9 @@
 {
-    "id": "country-boundaries",
+    "id": "00-country-boundaries",
     "type": "Collection",    
     "stac_version": "1.0.0",
     "description": "Country boundaries by Natural Earth",
-    "title": "Country boundaries",
+    "title": "00 - Country Boundaries",
     "providers": [
       {
         "name": "Natural Earth",

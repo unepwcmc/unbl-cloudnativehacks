@@ -16,7 +16,7 @@
       {
         "rel": "child",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries.json",
-        "title": "Country Boundaries Collection"
+        "title": "00 - Country Boundaries"
       }      
     ]
 }

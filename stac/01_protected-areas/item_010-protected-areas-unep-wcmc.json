@@ -80,13 +80,13 @@
       "thumbnail": {
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/data/01_protected-areas/wdpa_protected-areas_thumbnail.jpg",
         "title": "Thumbnail",
-        "type": "image/png",
+        "type": "image/jpg",
         "roles": [
           "thumbnail"
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/data/00_country-boundaries/wdpa_protected-areas_overview.tif",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/test_collection-protected-areas/data/01_protected-areas/wdpa_protected-areas_overview.tif",
         "title": "Overview",
         "type": "image/tif",
         "roles": [

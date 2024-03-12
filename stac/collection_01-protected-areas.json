@@ -45,12 +45,6 @@
         "title": "Country Boundaries Collection"
       },
       {
-        "rel": "item",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/item_010-protected-areas-unep-wcmc.json",
-        "type": "application/json",
-        "title": "Country Boundaries by Natural Earth"
-      },
-      {
         "rel": "self",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01-protected-areas.json",
         "type": "application/json"

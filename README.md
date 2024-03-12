@@ -22,7 +22,7 @@ In this document, we will publish some relevant datasets and give you some ideas
 ### Contact
 Need some help / support, you can contact us:  
 - [email](mailto:unbl@unep-wcmc.org)
-- [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
+- [Slack](mailto:cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
 
 ### Datasets
 

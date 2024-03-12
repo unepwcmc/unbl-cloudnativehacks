@@ -1,107 +1,58 @@
 {
     "id": "simple-collection",
     "type": "Collection",
-    "stac_extensions": [
+ /*    "stac_extensions": [
       "https://stac-extensions.github.io/eo/v1.0.0/schema.json",
       "https://stac-extensions.github.io/projection/v1.0.0/schema.json",
       "https://stac-extensions.github.io/view/v1.0.0/schema.json"
-    ],
+    ], */
     "stac_version": "1.0.0",
-    "description": "A simple collection demonstrating core catalog fields with links to a couple of items",
-    "title": "Simple Example Collection",
+    "description": "Country boundaries by Natural Earth",
+    "title": "Country boundaries",
     "providers": [
       {
-        "name": "Remote Data, Inc",
-        "description": "Producers of awesome spatiotemporal assets",
+        "name": "Natural Earth",
+        "description": "Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data, with Natural Earth you can make a variety of visually pleasing, well-crafted maps with cartography or GIS software. Natural Earth was built through a collaboration of many volunteers and is supported by NACIS (North American Cartographic Information Society), and is free for use in any type of project (see our Terms of Use page for more information).Get the Data",
         "roles": [
           "producer",
           "processor"
         ],
-        "url": "http://remotedata.io"
+        "url": "https://www.naturalearthdata.com"
       }
     ],
     "extent": {
       "spatial": {
         "bbox": [
           [
-            172.91173669923782,
-            1.3438851951615003,
-            172.95469614953714,
-            1.3690476620161975
+            -180,
+            -90,
+            180,
+            90
           ]
         ]
       },
       "temporal": {
         "interval": [
           [
-            "2020-12-11T22:38:32.125Z",
-            "2020-12-14T18:02:31.437Z"
+            "2024-04-01T00:00:00.000Z",
+            "2022-05-12T00:00:00.000Z"
           ]
         ]
       }
     },
-    "license": "CC-BY-4.0",
-    "summaries": {
-      "platform": [
-        "cool_sat1",
-        "cool_sat2"
-      ],
-      "constellation": [
-        "ion"
-      ],
-      "instruments": [
-        "cool_sensor_v1",
-        "cool_sensor_v2"
-      ],
-      "gsd": {
-        "minimum": 0.512,
-        "maximum": 0.66
-      },
-      "eo:cloud_cover": {
-        "minimum": 1.2,
-        "maximum": 1.2
-      },
-      "proj:epsg": {
-        "minimum": 32659,
-        "maximum": 32659
-      },
-      "view:sun_elevation": {
-        "minimum": 54.9,
-        "maximum": 54.9
-      },
-      "view:off_nadir": {
-        "minimum": 3.8,
-        "maximum": 3.8
-      },
-      "view:sun_azimuth": {
-        "minimum": 135.7,
-        "maximum": 135.7
-      }
-    },
+    "license": "CCo Public Domain",
     "links": [
       {
         "rel": "root",
         "href": "./country-boundaries.json",
         "type": "application/json",
-        "title": "Simple Example Collection"
+        "title": "Country Boundaries Collection"
       },
       {
         "rel": "item",
-        "href": "./simple-item.json",
+        "href": "./country-boundaries-item.json",
         "type": "application/geo+json",
-        "title": "Simple Item"
-      },
-      {
-        "rel": "item",
-        "href": "./core-item.json",
-        "type": "application/geo+json",
-        "title": "Core Item"
-      },
-      {
-        "rel": "item",
-        "href": "./extended-item.json",
-        "type": "application/geo+json",
-        "title": "Extended Item"
+        "title": "Country boundaries item"
       },
       {
         "rel": "self",

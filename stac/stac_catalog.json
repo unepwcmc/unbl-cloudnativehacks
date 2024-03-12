@@ -12,9 +12,15 @@
       {
         "rel": "root",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/"  
-      }
-    ],
-    "collections": [
+      },
+      {
+        "rel": "child",
+        "href": "country-boundaries.json",
+        "type": "application/json",
+        "title": "Country Boundaries Collection"
+      }      
+    ]
+/*    "collections": [
       {
         "id": "country-boundaries",
         "title": "Country Boundaries Collection",
@@ -26,6 +32,7 @@
         "title": "Country Boundaries Collection2",
         "description": "Boundaries of country from Natural Earth2",
         "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/country-boundaries2.json" 
-      } 
-    ]
+      }
+ 
+    ]*/
   }

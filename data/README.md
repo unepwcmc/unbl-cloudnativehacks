@@ -26,4 +26,11 @@ Here are some suggested datasets you could work on, but you can also select your
 | 7  | Areas of Global Significance for Restoration | <sub>to inform the preliminary results of a global prioritization analysis for the restoration of habitats for terrestrial species and carbon sequestering. (Target 1: Plan and Manage all Areas To Reduce Biodiversity Loss.) ([see on UNBL](https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=28.504326,10.8558075,2&layers=areas-of-global-significance-for-restoration_100)) | <sub>+ [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/07_global-significance-for-restoration/global-significance-for-restoration_32bits_wgs84.tif) </sub> |
 
 
+### Additional Datasets
+
+| #  | Dataset | How this data could be useful | Cloud Native Data Access | 
+| ------------- | ------------- | ------------- | ------------- | 
+| 8  | Forest Structural Integrity Index | <sub>To be done</sub> | <sub>+ TBD - [UNBL Azure Blob]() </sub> |
+| 9  | Global Open Buildings | <sub>to be done</sub> | <sub>+ [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>+ [GEE/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>+ [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>+ [MS PC](https://planetarycomputer.microsoft.com/dataset/ms-buildings)<br/>+ [OSM via Overpass](https://overpass-turbo.eu/s/1In5)</sub>|
+|  10  | Biodiversity Intactness | <sub>To be doneF</sub> |<sub>+ [UNBL Azure Blob](https://cloudnativehacks.blob.core.windows.net/data/biodiversity_intactness_index/BIIAb-2015_cog.tif) <br/>+ [MS PC](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>+ [GEE/EarthBlox](https://gee-community-catalog.org/projects/bii/)</sub>|
 

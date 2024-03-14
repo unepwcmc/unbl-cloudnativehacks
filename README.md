@@ -27,7 +27,7 @@ Need some help / support, you can contact us:
 ### Datasets
 
 Here are some suggested datasets you could work on, but you can also select your own datasets.
-1) To access our datasets, ask for a token by [email](mailto:unbl@unep-wcmc.org) / [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
+1) To access our datasets, *ask for a token* by [email](mailto:unbl@unep-wcmc.org) / [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
 2) These datasets are global spatial data
 3) These datatasets are suggested because they are currently relevant, as they can be used to report on the [Global Biodiversity Framework](https://www.post-2020indicators.org/). 
 4) Countries adopted the [Global Biodiversity Framework](https://www.post-2020indicators.org/) at the 15th meeting of the Conference of the Parties (COP15) to the [Convention on Biological Diversity (CBD)](https://www.cbd.int/convention), held in December 2022.

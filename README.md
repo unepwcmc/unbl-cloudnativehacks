@@ -54,7 +54,7 @@ Here are some suggested datasets you could work on, but you can also select your
 
 ### Additional Datasets
 
-| #  | Dataset | Data Type | How this data could be useful | Cloud Native Data Access | 
+| #  | Dataset | Type | How this data could be useful | Cloud Native Data Access | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 8  | Forest Structural Integrity Index | <sub>raster</sub> | <sub>To be done</sub> | <sub>+ TBD - [UNBL Blob]() </sub> |
 | 9  | Global Open Buildings | <sub>vector</sub> | <sub>To be done</sub> | <sub>+ [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>+ [GEE<sup>2</sup>/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>+ [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>+ [MS PC<sup>1</sup>](https://planetarycomputer.microsoft.com/dataset/ms-buildings)<br/>+ [OSM via Overpass](https://overpass-turbo.eu/s/1In5)</sub>|

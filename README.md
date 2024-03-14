@@ -1,4 +1,4 @@
-# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
+fm# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
 
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/b5e2ba08-7521-4d4e-892b-c43e1ab001bc" height="150"/>
      <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/d75e61e2-b26f-4c9a-981c-cc1f865081c8" height="150"/>
@@ -57,5 +57,5 @@ Here are some suggested datasets you could work on, but you can also select your
 | #  | Dataset | Type | How this data could be useful | Cloud Native Data Access | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 8  | Forest Structural Integrity Index | <sub>raster</sub> | <sub>To be done</sub> | <sub>+ TBD - [UNBL Blob]() </sub> |
-| 9  | Global Open Buildings | <sub>vector</sub> | <sub>To be done</sub> | <sub>+ [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/) combined<br/>+ [GEE<sup>2</sup>/VIDA](https://gee-community-catalog.org/projects/global_buildings/) combined <br/>+ [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>+ [MS PCH <sup>1</sup>](https://planetarycomputer.microsoft.com/dataset/ms-buildings)<br/>+ [OSM via Overpass](https://overpass-turbo.eu/s/1In5)</sub>|
+| 9  | Global Open Buildings | <sub>vector</sub> | <sub>To be done</sub> | <sub>+ [Source.coop](https://beta.source.coop/repositories/vida/google-microsoft-open-buildings/description/)<br/>+ [GEE<sup>2</sup>/VIDA](https://gee-community-catalog.org/projects/global_buildings/)<br/>+ [Google Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_Research_open-buildings_v3_polygons) <br/>+ [MS PCH <sup>1</sup>](https://planetarycomputer.microsoft.com/dataset/ms-buildings)<br/>+ [OSM via Overpass](https://overpass-turbo.eu/s/1In5)</sub>|
 |  10  | Biodiversity Intactness Index | <sub>raster</sub> | <sub>To be done</sub> |<sub>+ [UNBL Blob](https://cloudnativehacks.blob.core.windows.net/data/10_biodiversity-intactness-index/BIIAb-2015_cog.tif?_asked_for_sas_token_by_email) <br/>+ [MS PCH <sup>1</sup>](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) <br/>+ [GEE<sup>2</sup>/EarthBlox](https://gee-community-catalog.org/projects/bii/)</sub>|

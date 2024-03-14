@@ -27,14 +27,14 @@ Need some help / support, you can contact us:
 ### Datasets
 
 Here are some suggested datasets you could work on, but you can also select your own datasets.
-- 1) To access our datasets, ask for a token by [email](mailto:unbl@unep-wcmc.org) / [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
-- 2) These datasets are global spatial data
-- 3) These datatasets are suggested because they are currently relevant, as they can be used to report on the [Global Biodiversity Framework](https://www.post-2020indicators.org/). 
-- 4) Countries adopted the [Global Biodiversity Framework](https://www.post-2020indicators.org/) at the 15th meeting of the Conference of the Parties (COP15) to the [Convention on Biological Diversity (CBD)](https://www.cbd.int/convention), held in December 2022.
-- 5) The Global Biodiversity Framework aims to put nature on a path to recovery. 
-- 6) The framework features [4 goals](https://www.cbd.int/gbf/goals/) and [23 targets](https://www.cbd.int/gbf/targets/) that span three broad topics: reducing threats to biodiversity, meeting people’s needs, and tools and solutions for implementation.
-- 7) The datasets are published as Cloud Native datasets: COG Geotiff for rasters and (Geo)parquet for vectors.
-- 8) ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
+1) To access our datasets, ask for a token by [email](mailto:unbl@unep-wcmc.org) / [Slack](cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com)
+2) These datasets are global spatial data
+3) These datatasets are suggested because they are currently relevant, as they can be used to report on the [Global Biodiversity Framework](https://www.post-2020indicators.org/). 
+4) Countries adopted the [Global Biodiversity Framework](https://www.post-2020indicators.org/) at the 15th meeting of the Conference of the Parties (COP15) to the [Convention on Biological Diversity (CBD)](https://www.cbd.int/convention), held in December 2022.
+5) The Global Biodiversity Framework aims to put nature on a path to recovery. 
+6) The framework features [4 goals](https://www.cbd.int/gbf/goals/) and [23 targets](https://www.cbd.int/gbf/targets/) that span three broad topics: reducing threats to biodiversity, meeting people’s needs, and tools and solutions for implementation.
+7) The datasets are published as Cloud Native datasets: COG Geotiff for rasters and (Geo)parquet for vectors.
+8) ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
 
 <br/>
 

@@ -1,4 +1,4 @@
-``# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
+# SPATIAL DATA FOR BIODIVERSITY CONSERVATION
 
 <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/b5e2ba08-7521-4d4e-892b-c43e1ab001bc" height="150"/>
      <img src="https://github.com/unepwcmc/unbl-cloudnativehacks/assets/141819111/d75e61e2-b26f-4c9a-981c-cc1f865081c8" height="150"/>

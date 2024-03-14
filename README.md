@@ -34,7 +34,7 @@ Here are some suggested datasets you could work on, but you can also select your
 5) The Global Biodiversity Framework aims to put nature on a path to recovery. 
 6) The framework features [4 goals](https://www.cbd.int/gbf/goals/) and [23 targets](https://www.cbd.int/gbf/targets/) that span three broad topics: reducing threats to biodiversity, meeting people’s needs, and tools and solutions for implementation.
 7) The datasets are published as Cloud Native datasets: COG Geotiff for rasters and (Geo)parquet for vectors.
-8) ⚠️ Don't forget to mention credits and be compliant with the respective license of each datasets. ⚠️
+8) ⚠️ Don't forget to **mention the credits**. Also comply with the **respective license** of each dataset. ⚠️
 
 <br/>
 

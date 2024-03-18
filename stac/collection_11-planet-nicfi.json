@@ -1,0 +1,70 @@
+{
+    "id": "11_planet-nicfi",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "_TBD_",
+    "title": "11 - Planet NICFI",
+    "providers": [
+      {
+        "name": "_TDB_",
+        "description": "_TDB_",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"_TDB_",
+        "email": "_TDB_",
+		"url":"_TDB_"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2022-06-15T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "_TDB_",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/09_biodiversity-intactness-index/item_011-planet-nicfi.json",
+        "type": "application/json",
+        "title": "Planet NICFI"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_11-planet-nicfi.json",
+        "type": "application/json"
+      }
+    ]
+  }

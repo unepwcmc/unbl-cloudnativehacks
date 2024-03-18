@@ -1,0 +1,70 @@
+{
+    "id": "03-ecological-intactness-index",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "Human activities are altering natural areas worldwide. While our ability to map these activities at fine scales is improving, a simplistic binary characterization of habitat and non-habitat with a focus on change in habitat extent has dominated conservation assessments across different spatial scales. Here, the authors provide a Ecological Intactness Index metric that captures both habitat loss, quality and fragmentation effects which, when combined, are called intactness.",
+    "title": "03 - Ecological Intactness Index",
+    "providers": [
+      {
+        "name": "The University of Queensland",
+        "description": "Beyer, Hawthorne, Venter, Oscar, Grantham, Hedley, and Watson, James(2019). Global assessment of ecoregion intactness. The University of Queensland. Data Collection. https://doi.org/10.14264/uql.2019.773",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+        "url": "mailto:data@library.uq.edu.au",
+		"contact": "Beyer, Hawthorne",
+		"email":  "data@library.uq.edu.au"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab - Contact: <a href='mailto:cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com'>Slack</a>",
+        "roles": [
+          "host"        
+        ],
+        "url": "mailto:cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2019-01-01T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "CC-BY-3.0",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/03-ecological-intactness-index/item_030-ecological-intactness-index.json",
+        "type": "application/json",
+        "title": "Ecological Intactness Index"
+      },    
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_03-ecological-intactness-index.json",
+        "type": "application/json"
+      }
+    ]
+  }

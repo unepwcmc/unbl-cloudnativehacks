@@ -1,0 +1,123 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_040-biodiversity-habitat-index",
+    "bbox": [
+      -180,
+      -60,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -60
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -60
+          ],
+          [
+            -180,
+            -60
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2022-06-15T00:00:00.000Z",
+	  "description": "CSIRO Biodiversity Habitat Index (BHI v2) is a global 30 arc-second product for 2000,2005,2010,2015 and 2020. BHI estimates the level of species diversity expected to be retained within any given spatial reporting unit (e.g., a country, a broad ecosystem type, or the entire planet) as a function of the unit’s area, connectivity and integrity of natural ecosystems across it. Results for the indicator can either be expressed as 1) the ‘effective proportion of habitat’ remaining within the unit – adjusting for the effects of the condition and functional connectivity of habitat, and of spatial variation in the species composition of ecological communities (beta diversity); or 2) the effective proportion of habitat that can be translated, through standard species-area analysis, into a prediction of the proportion of species expected to persist (i.e. avoid extinction) over the long term. The BHI is used to monitor and report past-to-present trends in the expected persistence of species diversity by repeatedly recalculating the indicator using best-available mapping of ecosystem condition or integrity observed at multiple points in time, e.g., for different years. A wide variety of data sources can be used for this purpose, spanning spatial scales from global to subnational, and including data assembled by countries for deriving ecosystem condition accounts under the UN SEEA Ecosystem Accounting framework. The BHI can also serve as a leading indicator for assessing the contribution that proposed or implemented area-based actions are expected to make towards enhancing the present capacity of ecosystems to retain species diversity, thereby providing a foundation for strategic prioritisation of such actions by countries.",
+	  "DOI":"https://doi.org/10.25919/3j75-f539",
+	  "citation":"Harwood, Tom; Ware, Chris; Hoskins, Andrew; Ferrier, Simon; Bush, Alex; Golebiewski, Maciej; Hill, Samantha; Ota, Noboru; Perry, Justin; Purvis, Andy; Williams, Kristen (2022): BHI v2: Biodiversity Habitat Index: 30s global time series. v1. CSIRO. Data Collection."
+    },
+    "collection": "collection_04-biodiversity-habitat-index.json",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_04-biodiversity-habitat-index.json",
+        "type": "application/json",
+        "title": "04 - Biodiversity Habitat Index"
+      },
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_04-biodiversity-habitat-index.json",
+        "type": "application/json",
+        "title": "04 - Biodiversity Habitat Index"
+      },
+      {
+        "rel": "parent",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_04-biodiversity-habitat-index.json",
+        "type": "application/json",
+        "title": "04 - Biodiversity Habitat Index"
+      }
+    ],
+    "assets": {
+      "data-tif-2000": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2000_cog.tif",
+        "type": "image/tif",
+        "title": "BHI 2000 COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-tif-2005": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2005_cog.tif",
+        "type": "image/tif",
+        "title": "BHI 2005 COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-tif-2010": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2010_cog.tif",
+        "type": "image/tif",
+        "title": "BHI 2010 COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-tif-2015": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2015_cog.tif",
+        "type": "image/tif",
+        "title": "BHI 2015 COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-tif-2020": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/04_biodiversity-habitat-index/BILBI_P_BHIv2_Habitat_2020_cog.tif",
+        "type": "image/tif",
+        "title": "BHI 2020 COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/04_biodiversity-habitat-index/biodiversity-habitat-index_thumbnail.png",
+        "title": "Thumbnail",
+        "type": "image/png",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/04_biodiversity-habitat-index/biodiversity-habitat-index_overview.tif",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

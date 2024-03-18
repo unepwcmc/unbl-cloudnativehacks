@@ -1,0 +1,70 @@
+{
+    "id": "06_protected-area-connectivity",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "The ProtConn indicator measures the percentage of protected land within each ecoregion that's functionally connected. It uses data from 2016 and assesses progress towards a UN biodiversity target on protected area connectivity.",
+    "title": "06 - Protected Area Connectivity",
+    "providers": [
+      {
+        "name": "Joint Research Centre - European Commission",
+        "description": "The Joint Research Centre is the European Commission's in-house science and knowledge service. It provides scientific and technical support to policies and decision-making within the European Union. The JRC focuses on a wide range of research areas, including agriculture, environment, energy, transport, health, and more. It aims to contribute to the development, implementation, and monitoring of EU policies by providing independent scientific and technical expertise. The JRC plays a crucial role in ensuring that EU policies are based on sound scientific evidence and research.",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"Grégoire DUBOIS",
+        "email": "Gregoire.DUBOIS@ec.europa.eu",
+		"url":"https://dopa.jrc.ec.europa.eu/dopa/"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2021-01-01T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "CC-BY-4.0",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/06_protected-area-connectivity/item_060-protected-area-connectivity-by-ecoregion.json",
+        "type": "application/json",
+        "title": "060 Protected Area Connectivity by Ecoregion"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_06-protected-area-connectivity.json",
+        "type": "application/json"
+      }
+    ]
+  }

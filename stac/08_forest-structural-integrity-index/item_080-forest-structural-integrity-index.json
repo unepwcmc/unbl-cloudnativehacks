@@ -1,0 +1,88 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_080-forest-structural-integrity-index.json",
+    "bbox": [
+      -180,
+      -90,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -90
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -90
+          ],
+          [
+            -180,
+            -90
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2021-01-01T00:00:00.000Z"
+    },
+    "collection": "collection_08-forest-structural-integrity-index",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_08-forest-structural-integrity-index.json",
+        "type": "application/json",
+        "title": "08 - Forest Structural Integrity Index"
+      },
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_08-forest-structural-integrity-index.json",
+        "type": "application/json",
+        "title": "08 - Forest Structural Integrity Index"
+      },
+      {
+        "rel": "parent",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_08-forest-structural-integrity-index.json",
+        "type": "application/json",
+        "title": "08 - Forest Structural Integrity Index"
+      }
+    ],
+    "assets": {
+      "data-tif": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/08_forest-structural-integrity-index/Global_Merge-Asia-Africa-America_nodata-9999_FSII_2018_MBL_cog.tif",
+        "type": "image/tif",
+        "title": "Forest Structural Integrity Index COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/08_forest-structural-integrity-index/forest-structural-integrity-index_thumbnail.png",
+        "title": "Thumbnail",
+        "type": "image/png",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/08_forest-structural-integrity-index/forest-structural-integrity-index_overview.tif",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

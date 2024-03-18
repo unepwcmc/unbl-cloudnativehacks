@@ -1,0 +1,70 @@
+{
+    "id": "04_biodiversity-habitat-index",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "The CSIRO Biodiversity Habitat Index (BHI v2) is a global tool measuring biodiversity based on ecosystem size, health, and connectivity. It tracks biodiversity changes over time, predicts species survival, and strategically prioritizes conservation efforts by analyzing ecosystem condition data.",
+    "title": "04 - Biodiversity Habitat Index",
+    "providers": [
+      {
+        "name": "CSIRO (Australia)",
+        "description": "Use of the CSIRO BILBI biodiversity modelling infrastructure in conjunction with a range of observed and recorded input datasets to report on the status and trend of the landscape and biodiversity assets globally at 30 arc seconds.",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"Tom Harwood",
+        "email": "Tom.Harwood@csiro.au",
+		"url":"https://data.csiro.au/collection/csiro:54237?q=BHI&_st=keyword&_str=1&_si=1"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth?basemap=grayscale&coordinates=28.3075467,-78.8102109,1&layers=biodiversity-habitat-index-2000-2020-v2-30s-global-time-series_100"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -60,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2022-06-15T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "CC-BY-4.0",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/04_biodiversity-habitat-index/item_040-biodiversity-habitat-index.json",
+        "type": "application/json",
+        "title": "Biodiversity Habitat Index"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_04-biodiversity-habitat-index.json",
+        "type": "application/json"
+      }
+    ]
+  }

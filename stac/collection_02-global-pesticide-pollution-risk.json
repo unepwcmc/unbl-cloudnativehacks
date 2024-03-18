@@ -13,6 +13,16 @@
           "licensor"
         ],
         "url": "mailto:fiona.tang@sydney.edu.au"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab - Contact: <a href='mailto:cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com'>Slack</a>",
+        "roles": [
+          "host"        
+        ],
+        "url": "mailto:cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com"
       }
     ],
     "extent": {
@@ -39,19 +49,25 @@
     "links": [
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
         "type": "application/json",
-        "title": "02 - Global Pesticide"
+        "title": "STAC Catalog"
       },
       {
         "rel": "item",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/02_global-pesticide-pollution-risk/item_020-global-pesticide-risk-score.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/item_020-global-pesticide-risk-score.json",
         "type": "application/json",
         "title": "Global Pesticide Risk Score"
       },
       {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/item_021-global-active-ingredient-counts.json",
+        "type": "application/json",
+        "title": "Global Active Ingredient Counts"
+      },      
+      {
         "rel": "self",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_02-global-pesticide-pollution-risk.json",
         "type": "application/json"
       }
     ]

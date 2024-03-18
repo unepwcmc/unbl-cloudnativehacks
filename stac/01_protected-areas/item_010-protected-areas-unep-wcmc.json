@@ -78,7 +78,7 @@
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_thumbnail.jpg",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/01_protected-areas/wdpa_protected-areas_thumbnail.jpg",
         "title": "Thumbnail",
         "type": "image/jpg",
         "roles": [
@@ -86,7 +86,7 @@
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/01_protected-areas/wdpa_protected-areas_overview.tif",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/01_protected-areas/wdpa_protected-areas_overview.tif",
         "title": "Overview",
         "type": "image/tif",
         "roles": [

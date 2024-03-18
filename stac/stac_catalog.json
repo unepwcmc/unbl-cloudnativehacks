@@ -7,26 +7,71 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/stac_catalog.json" 
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json" 
       },
       {
         "rel": "root",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/"  
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/"  
       },
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_00-country-boundaries.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_00-country-boundaries.json",
         "title": "00 - Country Boundaries"
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_01-protected-areas.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_01-protected-areas.json",
         "title": "01 - Protected Areas"
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_02-global-pesticide-pollution-risk.json",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_02-global-pesticide-pollution-risk.json",
         "title": "02 - Global Pesticide"
-      }      
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_03-ecological-intactness-index.json",
+        "title": "03 - Ecological Intactness Index"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_04-biodiversity-habitat-index.json",
+        "title": "04 Biodiversity Habitat Index"
+      } ,      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_05-global-surface-water.json",
+        "title": "05 Global Surface Water"
+      } ,      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_06-protected-area-connectivity.json",
+        "title": "06 Protected Area Connectivity"
+      } ,      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_07-global-significance-for-restoration.json",
+        "title": "07 Global Significance For Restoration"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_08-forest-structural-integrity-index.json",
+        "title": "08 Forest Structural Integrity Index"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_09-biodiversity-intactness-index.json",
+        "title": "09 Biodiversity Intactness Index"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_10-global-open-buildings.json",
+        "title": "10 Global Open Buildings"
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_11-planet-nicfi.json",
+        "title": "11 Planet NICFI"
+      }         
     ]
 }

@@ -1,0 +1,70 @@
+{
+    "id": "08_forest-structural-integrity-index",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "_TBD_",
+    "title": "08 - Forest Structural Integrity Index",
+    "providers": [
+      {
+        "name": "_TBD_",
+        "description": "_TBD_",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"_TBD_",
+        "email": "_TBD_",
+		"url":"_TBD_"
+      },
+      {
+        "name": "UNBL",
+        "description": "UN Biodiversity Lab",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2022-06-15T00:00:00.000Z", 
+            null
+          ]
+        ]
+      }
+    },
+    "license": "_TDB_",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/08_forest-structural-integrity-index/item_080-forest-structural-integrity-index.json",
+        "type": "application/json",
+        "title": "Forest Structural Integrity Index"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_08-forest-structural-integrity-index.json",
+        "type": "application/json"
+      }
+    ]
+  }

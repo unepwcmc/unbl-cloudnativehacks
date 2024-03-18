@@ -1,0 +1,70 @@
+{
+    "id": "07_global-significance-for-restoration",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "This map prioritizes global habitat restoration for species conservation and carbon storage. Researchers analyzed distributions of over 180,000 plant and animal species, along with carbon data, to identify top-priority areas for restoration within human-modified landscapes.",
+    "title": "07 - Global Significance For Restoration",
+    "providers": [
+      {
+        "name": "The International Institute for Sustainability (IIS)",
+        "description": "The International Institute for Sustainability (IIS) is a private non-profit organization whose mission is to develop transformative solutions for a sustainable world, based on Science and other forms of knowledge. The IIS works to promote positive impact on public policies, business models, and decision-making processes with governments, businesses, multilateral organizations, and civil society.",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"Bernardo B. N. Strassburg",
+        "email": "b.strassburg@iis-rio.org",
+		"url":"https://www.iis-rio.org/en/publications/nature-global-priority-areas-for-ecosystem-restoration/"
+      },
+      {
+        "name": "UN Biodiversity Lab (UNBL)",
+        "description": "The UN Biodiversity Lab (UNBL) is a cutting-edge platform providing spatial data and analytics to support biodiversity conservation and sustainable development decision-making. It empowers governments, organizations, and researchers with high-resolution maps on biodiversity, ecosystems, and essential life support areas.  The UNBL aims to bridge the gap between data and action by offering actionable insights on the state of nature. This initiative plays a crucial role in safeguarding global biodiversity and achieving the UN's Sustainable Development Goals (SDGs).",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -90,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2022-10-14T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "CC-BY-NC-SA-4.0",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/07_global-significance-for-restoration/item_070-global-significance-for-restoration.json",
+        "type": "application/json",
+        "title": "Global Significance For Restoration"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_07-global-significance-for-restoration.json",
+        "type": "application/json"
+      }
+    ]
+  }

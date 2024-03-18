@@ -1,0 +1,144 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_060-protected-area-connectivity-by-ecoregion",
+    "bbox": [
+      -180,
+      -90,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -90
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -90
+          ],
+          [
+            -180,
+            -90
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2021-01-01T00:00:00.000Z"
+    },
+    "collection": "collection_06-protected-area-connectivity",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_06-protected-area-connectivity.json",
+        "type": "application/json",
+        "title": "06 - Protected Area Connectivity"
+      },
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_06-protected-area-connectivity.json",
+        "type": "application/json",
+        "title": "06 - Protected Area Connectivity"
+      },
+      {
+        "rel": "parent",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_06-protected-area-connectivity.json",
+        "type": "application/json",
+        "title": "06 - Protected Area Connectivity"
+      }
+    ],
+    "assets": {
+      "data-tif": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.parquet",
+		"type": "application/vnd.apache.parquet",
+        "title": "Protected Connected Index 2021 by Ecoregion as (geo)parquet",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-geoarrow": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.arrow",
+        "type": "application/vnd.apache.arrow.file",
+        "title": "Protected Connected Index 2021 by Ecoregion as (geo)arrow",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-geoarrow-stream": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.arrows",
+        "type": "application/vnd.apache.arrow.stream",
+        "title": "Protected Connected Index 2021 by Ecoregion as (geo)arrow stream",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-mbtiles": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.mbtiles",
+        "type": "application/vnd.mapbox-vector-tile",
+        "title": "Protected Connected Index 2021 by Ecoregion as MBTiles",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-pmtiles": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.pmtiles",
+        "type": "application/vnd.pmtiles",
+        "title": "Protected Connected Index 2021 by Ecoregion as PMTiles",
+        "roles": [
+          "data"
+        ]
+      },
+      "data-fgb": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.fgb",
+        "type": "application/octet-stream",
+        "title": "Protected Connected Index 2021 by Ecoregion as FlatGeobuff",
+        "roles": [
+          "data"
+        ]
+      },
+      "style-qml": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.qml",
+        "title": "Style as QML for QGIS",
+        "type": "application/xml",
+        "roles": [
+          "metadata"
+        ]
+      },
+      "style-sld": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/06_protected-connected-index/protected_connected_index_by-ecoregion_2021_wgs84.sld",
+        "title": "Style as SLD",
+        "type": "application/vnd.ogc.sld+xml",
+        "roles": [
+          "metadata"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/06_protected-area-connectivity/protected-area-connectivity_thumbnail.png",
+        "title": "Thumbnail",
+        "type": "image/png",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/06_protected-area-connectivity/protected-area-connectivity_overview.tif",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

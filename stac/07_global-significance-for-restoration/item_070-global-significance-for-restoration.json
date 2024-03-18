@@ -1,0 +1,88 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_070-global-significance-for-restoration",
+    "bbox": [
+      -180,
+      -90,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -90
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -90
+          ],
+          [
+            -180,
+            -90
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2021-01-01T00:00:00.000Z"
+    },
+    "collection": "collection_07-global-significance-for-restoration",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_07-global-significance-for-restoration.json",
+        "type": "application/json",
+        "title": "07 - Global Significance For Restoration"
+      },
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_07-global-significance-for-restoration.json",
+        "type": "application/json",
+        "title": "07 - Global Significance For Restoration"
+      },
+      {
+        "rel": "parent",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_07-global-significance-for-restoration.json",
+        "type": "application/json",
+        "title": "07 - Global Significance For Restoration"
+      }
+    ],
+    "assets": {
+      "data-tif": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/07_global-significance-for-restoration/global-significance-for-restoration_32bits_wgs84_cog.tif",
+        "type": "image/tif",
+        "title": "Areas of Global Significance for Restoration COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/07_global-significance-for-restoration/global-significance-for-restoration_thumbnail.png",
+        "title": "Thumbnail",
+        "type": "image/png",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/07_global-significance-for-restoration/global-significance-for-restoration_overview.tif",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

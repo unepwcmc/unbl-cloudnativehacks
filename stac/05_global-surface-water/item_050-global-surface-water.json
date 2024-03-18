@@ -1,0 +1,90 @@
+{
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "type": "Feature",
+    "id": "item_005-global-surface-water.json",
+    "bbox": [
+      -180,
+      -60,
+      180,
+      90
+    ],
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -180,
+            -60
+          ],
+          [
+            -180,
+            90
+          ],
+          [
+            180,
+            90
+          ],
+          [
+            180,
+            -60
+          ],
+          [
+            -180,
+            -60
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "datetime": "2022-11-07T00:00:00.000Z",
+	  "citation":"Pekel, JF., Cottam, A., Gorelick, N. et al. High-resolution mapping of global surface water and its long-term changes. Nature 540, 418–422 (2016).",
+	  "DOI":"https://doi.org/10.1038/nature20584"    
+	  },
+    "collection": "collection_05-global-surface-water",
+    "links": [
+      {
+        "rel": "collection",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_05-global-surface-water.json",
+        "type": "application/json",
+        "title": "05 - Global Surface Water"
+      },
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_05-global-surface-water.json",
+        "type": "application/json",
+        "title": "05 - Global Surface Water"
+      },
+      {
+        "rel": "parent",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_05-global-surface-water.json",
+        "type": "application/json",
+        "title": "05 - Global Surface Water"
+      }
+    ],
+    "assets": {
+      "data-tif-transitions": {
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/05_global-surface-water/GSWE-aggregated-latest_transitions_cog.tif",
+        "type": "image/tif",
+        "title": "Global Surface Water Transitions 1984-2021 (latest) COG",
+        "roles": [
+          "data"
+        ]
+      },
+      "thumbnail": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/05_global-surface-water/global-surface-water-transitions_thumbnail.png",
+        "title": "Thumbnail",
+        "type": "image/png",
+        "roles": [
+          "thumbnail"
+        ]
+      },
+      "overview": {
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/05_global-surface-water/global-surface-water-transitions_overview.tif",
+        "type": "image/tif",
+        "roles": [
+          "overview"
+        ]
+      }
+    }
+  }

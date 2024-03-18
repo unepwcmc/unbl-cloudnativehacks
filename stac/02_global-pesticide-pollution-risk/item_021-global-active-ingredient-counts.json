@@ -2,7 +2,7 @@
     "stac_version": "1.0.0",
     "stac_extensions": [],
     "type": "Feature",
-    "id": "item_020-global-pesticide-risk-score",
+    "id": "item_021-global-active-ingredient-counts",
     "bbox": [
       -180,
       -90,
@@ -62,15 +62,15 @@
     ],
     "assets": {
       "data-tif": {
-        "href": "https://cloudnativehacks.blob.core.windows.net/data/02_global-pesticide-pollution-risk/Global_pesticide_risk_scores_cog.tif",
+        "href": "https://cloudnativehacks.blob.core.windows.net/data/02_global-pesticide-pollution-risk/Global_active_ingredient_counts_cog.tif",
         "type": "image/tif",
-        "title": "Global Pesticide Risk Score COG",
+        "title": "Global Active Ingredients Count COG",
         "roles": [
           "data"
         ]
       },
       "thumbnail": {
-        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/global-pesticide-risk-score_thumbnail.png",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/global-active-ingredients-count_thumbnail.png",
         "title": "Thumbnail",
         "type": "image/png",
         "roles": [
@@ -78,7 +78,7 @@
         ]
       },
       "overview": {
-        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/global-pesticide-risk-score_overview.tif",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/02_global-pesticide-pollution-risk/global-active-ingredients-count_overview.tif",
         "type": "image/tif",
         "roles": [
           "overview"

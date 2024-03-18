@@ -1,0 +1,76 @@
+{
+    "id": "05_global-surface-water",
+    "type": "Collection",    
+    "stac_version": "1.0.0",
+    "description": "The Global Surface Water Transitions map tracks changes in water bodies (2000-2018), including new, lost, and shifting permanent and seasonal water surfaces. It highlights both natural and human-caused changes, offering insights into water availability fluctuations.",
+    "title": "05 - Global Surface Water",
+    "providers": [
+      {
+        "name": "Joint Research Centre - European Commission",
+        "description": "The Joint Research Centre is the European Commission's in-house science and knowledge service. It provides scientific and technical support to policies and decision-making within the European Union. The JRC focuses on a wide range of research areas, including agriculture, environment, energy, transport, health, and more. It aims to contribute to the development, implementation, and monitoring of EU policies by providing independent scientific and technical expertise. The JRC plays a crucial role in ensuring that EU policies are based on sound scientific evidence and research.",
+        "roles": [
+          "processor",
+          "licensor"
+        ],
+		"contact":"JRC Surface Water team",
+        "email": "jrc-surfacewater@ec.europa.eu",
+		"url":"https://global-surface-water.appspot.com/download"
+      },
+      {
+        "name": "UN Biodiversity Lab (UNBL)",
+        "description": "The UN Biodiversity Lab (UNBL) is a cutting-edge platform providing spatial data and analytics to support biodiversity conservation and sustainable development decision-making. It empowers governments, organizations, and researchers with high-resolution maps on biodiversity, ecosystems, and essential life support areas.  The UNBL aims to bridge the gap between data and action by offering actionable insights on the state of nature. This initiative plays a crucial role in safeguarding global biodiversity and achieving the UN's Sustainable Development Goals (SDGs).",
+        "roles": [
+          "host"        
+        ],
+        "contact": "UNBL via Slack",
+        "email": "cloud-native-hacks-aaaamjzzuyzpkclta7x7wfh5iu@wcmc.slack.com",
+        "url": "https://map.unbiodiversitylab.org/earth"
+      }
+    ],
+    "extent": {
+      "spatial": {
+        "bbox": [
+          [
+            -180,
+            -60,
+            180,
+            90
+          ]
+        ]
+      },
+      "temporal": {
+        "interval": [
+          [
+            "2022-11-07T00:00:00.000Z",
+            null
+          ]
+        ]
+      }
+    },
+    "license": "various",    
+    "links": [
+      {
+        "rel": "root",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/stac_catalog.json",
+        "type": "application/json",
+        "title": "STAC Catalog"
+      },
+      {
+        "rel": "item",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/05_global-surface-water/item_050-global-surface-water.json",
+        "type": "application/json",
+        "title": "Global Surface Water"
+      },      
+      {
+        "rel": "self",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_05-global-surface-water.json",
+        "type": "application/json"
+      },
+      {
+        "rel": "license",
+        "type": "text/html",
+        "href": "http://www.copernicus.eu/main/data-access/",
+        "title": "Copernicus Regulation"
+      }
+    ]
+  }

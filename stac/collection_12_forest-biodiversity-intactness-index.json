@@ -47,8 +47,7 @@
     ],
     "stac_version": "1.0.0",
     "summaries": {
-        "datetime": [
-        ]
+        "datetime": ["2000-01-01","2020-01-01"]
     },
     "title": "HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index",
     "type": "Collection"

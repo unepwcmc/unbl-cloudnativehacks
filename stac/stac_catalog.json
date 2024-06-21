@@ -75,7 +75,7 @@
       },      
       {
         "rel": "child",
-        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_12_forest-biodiversity-intactness-index.json",
+        "href": "https://raw.githubusercontent.com/unepwcmc/unbl-cloudnativehacks/main/stac/collection_12_forest-biodiversity-intactness-index.json",
         "title": "12 Forest Biodiversity Intactness Index"
       }           
     ]

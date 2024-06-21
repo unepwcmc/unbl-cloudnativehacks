@@ -1,25 +1,39 @@
-{'type': 'Collection',
- 'id': 'habitatsandbiotypes_forest_biodiversity_intactness_index',
- 'stac_version': '1.0.0',
- 'description': 'Global island data broken into four layers: continental mainlands, big islands (> 1km2), small islands (<= 1km2 AND >= 0.0036km2), and very small islands (< 0.0036km2).\n\nThis dataset builds on a USGS Esri product produced in 2018 through global classification of composite 2015 Landsat imagery as water or land with a minimum mapping unit of 3600 square meters (the area of four contiguous Landsat pixels) (Sayer et al. 2018). The USGS Esri data was compared and merged with a global islands dataset created and maintained by WCMC and Island Conservation. \n\nIslands that were missing from the original USGS Esri dataset were gathered and included from the WCMC Island Conservation data and further polygon attribute information was collected as well.',
- 'links': [{'rel': 'wms',
-   'href': 'https://data-gis.unep-wcmc.org/server/services/HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index/MapServer/WMSServer',
-   'type': 'image/png',
-   'title': 'Visualized through a WMS',
-   'wms:layers': ['nm_ForestBiodiversityIntactness'],
-   'wms:styles': ['default']},
-  {'rel': 'via',
-   'href': 'https://data-gis.unep-wcmc.org/server/rest/services/HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index/MapServer',
-   'type': 'text/html',
-   'title': 'Parent ArcGIS server url'}],
- 'dashboard:is_periodic': False,
- 'dashboard:time_density': 'year',
- 'dashboard:is_timeless': True,
- 'title': 'HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index',
- 'extent': {'spatial': {'bbox': [[-179.99999550841463,
-     -88.99999992161118,
-     179.99999550841463,
-     88.99999992161118]]},
-  'temporal': {'interval': [[None, None]]}},
- 'license': 'not-applicable',
- 'summaries': {'datetime': []}}
+{
+    'type': 'Collection',
+    'id': 'habitatsandbiotypes_forest_biodiversity_intactness_index',
+    'stac_version': '1.0.0',
+    'description': 'Global island data broken into four layers: continental mainlands, big islands (> 1km2), small islands (<= 1km2 AND >= 0.0036km2), and very small islands (< 0.0036km2).\n\nThis dataset builds on a USGS Esri product produced in 2018 through global classification of composite 2015 Landsat imagery as water or land with a minimum mapping unit of 3600 square meters (the area of four contiguous Landsat pixels) (Sayer et al. 2018). The USGS Esri data was compared and merged with a global islands dataset created and maintained by WCMC and Island Conservation. \n\nIslands that were missing from the original USGS Esri dataset were gathered and included from the WCMC Island Conservation data and further polygon attribute information was collected as well.',
+    'links': [{
+            'rel': 'wms',
+            'href': 'https://data-gis.unep-wcmc.org/server/services/HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index/MapServer/WMSServer',
+            'type': 'image/png',
+            'title': 'Visualized through a WMS',
+            'wms:layers': ['nm_ForestBiodiversityIntactness'],
+            'wms:styles': ['default']
+        }, {
+            'rel': 'via',
+            'href': 'https://data-gis.unep-wcmc.org/server/rest/services/HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index/MapServer',
+            'type': 'text/html',
+            'title': 'Parent ArcGIS server url'
+        }
+    ],
+    'dashboard:is_periodic': False,
+    'dashboard:time_density': 'year',
+    'dashboard:is_timeless': True,
+    'title': 'HabitatsandBiotypes/Forest_Biodiversity_Intactness_Index',
+    'extent': {
+        'spatial': {
+            'bbox': [[-179.99999550841463,
+                    -88.99999992161118,
+                    179.99999550841463,
+                    88.99999992161118]]
+        },
+        'temporal': {
+            'interval': [[None, None]]
+        }
+    },
+    'license': 'not-applicable',
+    'summaries': {
+        'datetime': []
+    }
+}

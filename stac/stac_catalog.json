@@ -72,6 +72,11 @@
         "rel": "child",
         "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_11-planet-nicfi.json",
         "title": "11 Planet NICFI"
-      }         
+      },      
+      {
+        "rel": "child",
+        "href": "https://raw.githubusercontent.com/WCMC-vblanque/unbl-cloudnativehacks-stac/main/stac/collection_12_forest-biodiversity-intactness-index.json,
+        "title": "12 Forest Biodiversity Intactness Index"
+      }           
     ]
 }
